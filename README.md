@@ -4,7 +4,7 @@
 
 ## Our Discord Server:
 
-[![Blockhost Discord](https://discord.com/api/guilds/1045987129651625994/widget.png?style=banner3)](https://discord.gg/GcemTB848R)
+[![Discord Server Invite](https://invite.casperiv.dev?inviteCode=GcemTB848R)](https://discord.gg/GcemTB848R)
 
 ## Plugins
 
