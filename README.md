@@ -76,6 +76,7 @@ List of popular plugins that are working on supporting Folia or already support 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Basic-Economy](https://github.com/SirBlobman/Basic-Economy) | [GitHub](https://github.com/SirBlobman/Basic-Economy) | [Download](https://github.com/SirBlobman/Basic-Economy/releases) | ✅ | Simple economy plugin |
 | [ChestShop3](https://www.spigotmc.org/resources/chestshop.51856/) | [GitHub](https://github.com/ChestShop-authors/ChestShop-3) | [Download](https://ci.minebench.de/job/ChestShop-3/) | ✅ | Sell items through chests |
+| [Economist](https://github.com/TheNextLvl-net/economist) | [GitHub](https://github.com/TheNextLvl-net/economist) | [Download](https://modrinth.com/plugin/economist-1) | ✅ | The next generation economy plugin with database and multiserver support |
 | [JobsReborn](https://www.spigotmc.org/resources/jobs-reborn.4216/) | [GitHub](https://github.com/Zrips/Jobs) | [Download](https://www.spigotmc.org/resources/jobs-reborn.4216/) | ✅ | Make money by working |
 | [LushRewards](https://www.spigotmc.org/resources/lushrewards-daily-rewards-login-streaks-and-playtime.107545/) | [GitHub](https://github.com/OakLoaf/LushRewards) | [Download](https://www.spigotmc.org/resources/lushrewards-daily-rewards-login-streaks-and-playtime.107545/) | ✅ | Playtime and login rewards |
 | [TheNewEconomy](https://modrinth.com/plugin/tne/versions) | [GitHub](https://github.com/TheNewEconomy/EconomyCore) | [Download](https://modrinth.com/plugin/tne/versions) | ✅ | Economy plugin |
