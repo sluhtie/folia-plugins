@@ -147,6 +147,12 @@ List of popular plugins that are working on supporting Folia or already support 
 | [PistonChat](https://www.spigotmc.org/resources/pistonchat.86719/) | [GitHub](https://github.com/AlexProgrammerDE/PistonChat) | [Download](https://github.com/AlexProgrammerDE/PistonChat/actions) | ✅ | Chat plugin used to replicate the chat commands of 2b2t |
 | [PrefiX](https://www.spigotmc.org/resources/prefix-custom-tag-manager-1-8-1-20.70359/) | [GitHub](https://gitlab.com/martijnpu/prefix) | [Download](https://www.spigotmc.org/resources/prefix-custom-tag-manager-1-8-1-20.70359/) | ✅ | Prefixes |
 
+### Skript & Addons
+
+| Name | GitHub | Download | Official Project | Description |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Skript](https://github.com/ShaneBeee/SkriptFolia) | [GitHub](https://github.com/ShaneBeee/SkriptFolia) | [Download](https://github.com/ShaneBeee/SkriptFolia/releases) | ❌ | A fork of Skript that adds basic support for Folia servers. |
+
 ### Security
 
 | Name | GitHub | Download | Official Project | Description |
