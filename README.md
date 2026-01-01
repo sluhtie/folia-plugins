@@ -152,6 +152,7 @@ List of popular plugins that are working on supporting Folia or already support 
 | Name | GitHub | Download | Official Project | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Skript](https://github.com/ShaneBeee/SkriptFolia) | [GitHub](https://github.com/ShaneBeee/SkriptFolia) | [Download](https://github.com/ShaneBeee/SkriptFolia/releases) | ❌ | A fork of Skript that adds basic support for Folia servers. |
+| [SkBee](https://modrinth.com/plugin/skbee) | [GitHub](https://github.com/ShaneBeee/SkBee) | [Download](https://modrinth.com/plugin/skbee) | ✅ | A Skript addon that picks up where Skript left off. |
 
 ### Security
 
